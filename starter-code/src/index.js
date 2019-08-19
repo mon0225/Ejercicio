@@ -17,7 +17,7 @@ class App extends React.Component{
               <Contact/>
             </div>
             <div className="col-8">
-            <Main />
+              <Main />
             <div>
           </div>
         </div>     
